@@ -1,6 +1,6 @@
 # 💰 Projeto Félix
 
-**Félix** é um projeto próprio desenvolvido com o objetivo de ajudar usuários a organizar sua vida financeira, acompanhar seus gastos mensais e tomar decisões mais conscientes sobre seu dinheiro.
+**Félix** é um projeto próprio em desenvolvimento com o objetivo de ajudar usuários a organizar sua vida financeira, acompanhar seus gastos mensais e tomar decisões mais conscientes sobre seu dinheiro.
 
 A proposta é combinar **controle financeiro pessoal e inteligência artificial**, oferecendo análises dos hábitos de consumo e simulações de possíveis investimentos.
 
